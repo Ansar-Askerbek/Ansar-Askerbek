@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Askerbek Ansar</h1>
 <h3 align="center">A beginner fullstack dev from Kazakhstan</h3>
 
-<h2>And I love coding**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**</h2>
+<h2 align="center"><i>And I love coding</i></h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ansar-askerbek&label=Profile%20views&color=0e75b6&style=flat" alt="ansar-askerbek" /> </p>
 
