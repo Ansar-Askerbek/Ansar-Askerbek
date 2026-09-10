@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Askerbek Ansar</h1>
-<h3 align="center">A beginner fullstack dev from Kazakhstan</h3>
+<h3 align="center">A beginner fullstack dev and future nucleer engineer from Kazakhstan</h3>
 
 <h2 align="center"><i>And I love coding</i></h2>
 
